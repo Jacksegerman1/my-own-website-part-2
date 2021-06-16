@@ -1,0 +1,22 @@
+h1{
+    color: green;
+    align-items: center;
+}
+*{
+    border:solid;
+    color: blue;
+}
+
+.header{
+    background-color: yellowgreen;
+    display:flex;
+    justify-content:space-between;
+}
+/* .grid{
+    background-color: violet;
+    display:flex;
+    justify-content: space-between;
+} */
+p,h2{
+    text-align: center;
+}
